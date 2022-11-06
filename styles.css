@@ -8,8 +8,6 @@
 
 html, body {
     background-color: #384142;
-    margin: 0;
-    padding: 0;
 }
 
 .nav {
@@ -25,6 +23,11 @@ html, body {
     text-decoration: none;
 }
 
+.left-align {
+    text-align: left;
+    text-decoration: none;
+}
+
 .box {
     height: 100px;
     width: 100px;
@@ -36,5 +39,22 @@ html, body {
 
 .heading {
     font-size: 1.5em;
+    padding: 1em;
     border-bottom: 1px solid rgba(215, 215, 215, 0.208);
+}
+
+.assignment-heading {
+    padding: 1.5em;
+}
+
+.assignment-content {
+    padding: 1em;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+.subject-btn {
+    padding: 0.5em;
 }
