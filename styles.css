@@ -22,6 +22,7 @@ html, body {
 
 .center-align {
     text-align: center;
+    text-decoration: none;
 }
 
 .box {
@@ -34,6 +35,6 @@ html, body {
 }
 
 .heading {
-    font-size: 2em;
+    font-size: 1.5em;
     border-bottom: 1px solid rgba(215, 215, 215, 0.208);
 }
