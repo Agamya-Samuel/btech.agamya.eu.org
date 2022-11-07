@@ -51,7 +51,7 @@ html, body {
 }
 
 .chapter-heading {
-    margin: 0.5em 1em 1em 0em;
+    margin: 0.5em 3em 1em 2em;
     padding: 0.5em 1em 1em 1em;
     border: 5px solid rgba(215, 215, 215, 0.208);
 }
