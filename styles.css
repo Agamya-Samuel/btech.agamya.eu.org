@@ -41,19 +41,19 @@ html, body {
 .heading {
     font-size: 1.5em;
     padding: 1em;
-    border-bottom: 5px solid rgba(215, 215, 215, 0.208);
+    border-bottom: 5px solid rgba(215, 215, 215, 0.726);
 }
 
 .assignment-heading {
     margin: 1.75em 1em 0.1em 1em;
     padding: 1.75em 1em 1em 1em;
-    border: 5px solid rgba(255, 255, 255, 0.208);
+    border: 5px solid rgba(255, 255, 255, 0.726);
 }
 
 .chapter-heading {
     margin: 0.5em 1.5em 1em 0.5em;
     padding: 0.5em 1em 1em 1em;
-    border: 5px solid rgba(215, 215, 215, 0.208);
+    border: 5px solid rgba(215, 215, 215, 0.726);
 }
 
 .assignment-content {
