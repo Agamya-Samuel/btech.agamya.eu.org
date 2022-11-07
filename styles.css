@@ -45,11 +45,13 @@ html, body {
 }
 
 .assignment-heading {
+    margin: 1.75em;
     padding: 1.75em 1em 1em 1em;
+    border-bottom: 5px solid rgba(215, 215, 215, 0.208);
 }
 
 .assignment-content {
-    padding: 2.25em;
+    padding: 2.25em 1em 1em 2.25em;
 }
 
 h2 {
@@ -58,4 +60,8 @@ h2 {
 
 .subject-btn {
     padding: 0.5em;
+}
+
+.modal-text {
+    color: black;
 }
