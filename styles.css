@@ -40,7 +40,7 @@ html, body {
 .heading {
     font-size: 1.5em;
     padding: 1em;
-    border-bottom: 1px solid rgba(215, 215, 215, 0.208);
+    border-bottom: 5px solid rgba(215, 215, 215, 0.208);
 }
 
 .assignment-heading {
