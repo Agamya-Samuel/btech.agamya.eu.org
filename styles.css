@@ -3,6 +3,7 @@
 * {
     box-sizing: border-box;
     font-family: Lato;
+    color: hsl(0, 0%, 100%);
 
 }
 
@@ -44,11 +45,11 @@ html, body {
 }
 
 .assignment-heading {
-    padding: 1.5em;
+    padding: 1.75em 1em 1em 1em;
 }
 
 .assignment-content {
-    padding: 1em;
+    padding: 2.25em;
 }
 
 h2 {
